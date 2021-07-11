@@ -2,14 +2,6 @@
 Move the red square to the blue square
 Every 10 steps the square speed increases 50
 
-### to move UP
-use key w
-### to move Down 
-use key s 
-### to move Left 
-use key a 
-### to move Right 
-use key d
 <h2>how to move Square by keyboad</h2>
 <ul>
   <li>use key <strong>w</strong> to move UP </li>
